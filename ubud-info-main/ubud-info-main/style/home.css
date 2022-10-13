@@ -1,0 +1,42 @@
+body{
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.con-jum{
+  background-image: url('../assets/ubud-background.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.tren{
+  padding-bottom: 40px;
+  margin-top: 10px;
+}
+
+.card{
+  border-radius: 10px;
+  padding: 0px !important;
+}
+
+.card img{
+  height: 205px;
+  width: 286px;
+}
+
+.form-search {
+  width: 60%;
+}
+
+.button-search {
+  padding: 0 50px;
+}
+
+.kontak{
+  padding-right: 100px !important;
+}
+
+.emel{
+  padding-top: 10px;
+}
